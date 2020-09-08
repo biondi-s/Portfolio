@@ -1,0 +1,33 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    description: Multiclass images prediction w/o convolutional layers and dimensionality reduction thanks to Autoencoders.
+    refa: /project/no-conv-autoencoders.pdf
+
+  - icon: fa fa-github
+    description: Multiclass MNIST digits classification using Convolutional Neural Network with optimization.
+    refa: /project/convolutional.pdf
+
+  - icon: fa fa-github
+    description: Multiclass classification using VGG16 Transfert Learning combined with Gradient Boosting and Linear Support Vector Classification.
+    refa: /project/transfer-learning.pdf
+        
+  - icon: fa fa-github
+    description: Branch and Bound for an ILP problem.
+    refa: /project/bbILP.pdf   
+    
+  - icon: fa fa-github
+    description: Non Linear Optimization. Bisection, Newton, Gradient and Simulated Annealing.
+    refa: /project/nnLinear.pdf
+        
+  - icon: fa fa-github
+    description: Packaging Problem solved with a Genetic Algorithm.
+    refa: /project/packaging.pdf
+        
+  - icon: fa fa-github
+    description: Cervical Cancer Classification.
+    refa: /project/cervical-cancer.pdf
+        
+  - icon: fa fa-github
+    description: Viaggi e Vacanze analysis for the Italian resident.
+    refa: /project/vv.pdf

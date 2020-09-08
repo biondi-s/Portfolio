@@ -1,0 +1,41 @@
+baseurl = "http://localhost:1313/"
+languageCode = "en-US"
+title = "Stefano Biondi"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "ananki"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Stefano Biondi"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  #Github        = "biondi-s"
+  Email         = "biondi.s@outlook.com"
+  #Twitter       = "username"
+  LinkedIn      = "ste-biondi"
+  #Stackoverflow = "username"
+  #Medium        = "username"
+  #Telegram      = "username"
+
+# Main Menu
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/sbiondi_resume.pdf"

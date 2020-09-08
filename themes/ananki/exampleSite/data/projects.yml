@@ -1,0 +1,22 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    description: Multiclass images prediction w/o convolutional layers and dimensionality reduction thanks to Autoencoders. 
+    
+  - icon: fa fa-github
+    description: Multiclass MNIST digits classification using Convolutional Neural Network with optimization.
+
+  - icon: fa fa-github
+    description: Multiclass classification using VGG16 Transfert Learning combined with Gradient Boosting and Linear Support Vector Classification.
+  
+  - icon: fa fa-globe
+    description: Statistical Analysis on the death number in Lombardy region during the COVID19 pandemic.
+
+  - icon: fa fa-globe
+    description: Prediction 1 day ahead of the electric consumption in the Italian and Scandinavian market using ARIMA and classical ML algorithms, like SVR, Random Forest and XGBoost.
+
+  - icon: fa fa-cog
+    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+
+  - icon: fa fa-cog
+    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
